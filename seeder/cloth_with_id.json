@@ -1,0 +1,2498 @@
+[
+  {
+    "name": "Wrap style pleated skirt dress",
+    "price": 10,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-030/C1-030+(1_2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-030/C1-030+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-030/C1-030+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-030/C1-030+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-030/C1-030+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-030/C1-030+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-030/C1-030+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-030/C1-030+(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-030/C1-030+(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-030/C1-030+(9).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-030/C1-030+(10).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-030/C1-030+(11).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-030/C1-030+(12).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-030/C1-030+(13).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-030/C1-030+(14).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-030/C1-030+(15).jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de6"
+    },
+    "description": "Formal fabric with a smooth surface, wrap-style dress. The waist size can be adjusted with the strap inserted into the waist of the right layer to create a dress fit, skirt pleated detail from the left body waist cut, long sleeves with a slim silhouette, and a pleated line at the back. Emphasis on lines with darts.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5b"
+    },
+    "code": "C1-030",
+    "id": "C000001",
+    "createdAt": "2024-09-06T13:10:52.245Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "V-neck raglan short sleeve top",
+    "price": 10,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-005/A3-005-1.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-005/A3-005-2.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-005/A3-005-3.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-005/A3-005-4.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-005/A3-005-5.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-005/A3-005-6.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-005/A3-005-7.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-005/A3-005_B3-014+(1)_c.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-005/A3-005_B3-014+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-005/A3-005_B3-014+(2)_c.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-005/A3-005_B3-014+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-005/A3-005_B3-014+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-005/A3-005_B3-014+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-005/A3-005_B3-014+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-005/A3-005_B3-014+(5)_c.jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de2"
+    },
+    "description": "Soft and drapery white fabric, V-neck neatly finished with inner hem, raglan sleeves, a silhouette with side seams gathered toward the center of the front, double layer point at the front cut, and short length at the center of the front.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5c"
+    },
+    "code": "A3-005",
+    "id": "C000002",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Linen short sleeve top",
+    "price": 10,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-001/A3-001+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-001/A3-001+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-001/A3-001+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-001/A3-001+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-001/A3-001+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-001/A3-001+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-001/A3-001+(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-001/A3-001+(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-001/A3-001+(9).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-001/A3-001+(10).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-001/A3-001+(11).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-001/A3-001+(12).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-001/A3-001+(13).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-001/A3-001+(14).jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de2"
+    },
+    "description": "Linen fabric with a natural mood, basic round neck shape and 1/4\" spaced inbinding for a neat finish, back neck keyhole opening, and a straight silhouette for plenty of room.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5e"
+    },
+    "code": "A3-001",
+    "id": "C000003",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Cropped Asymmetric Frilled Top",
+    "price": 10,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-002/A3-002_crop.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-002/A3-002_rsz+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-002/A3-002_rsz+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-002/A3-002_rsz+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-002/A3-002_rsz+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-002/A3-002-P+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-002/A3-002-P+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-002/A3-002-P+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-002/A3-002-P+(4).jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de2"
+    },
+    "description": "Fitted long-sleeve top with a cropped asymmetric cut, frilled edges and a ribbed finish.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5f"
+    },
+    "code": "A3-002",
+    "id": "C000004",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Round crop top",
+    "price": 10,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-006/A3-006+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-006/A3-006+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-006/A3-006+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-006/A3-006+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-006/A3-006+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-006/A3-006+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-006/A3-006+(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-006/A3-006+(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-006/A3-006+(9).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-006/A3-006+(10).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-006/A3-006+(11).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-006/A3-006+(12).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-006/A3-006+(13).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-006/A3-006_crop.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-006/A3-006-1.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-006/A3-006-2.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-006/A3-006-3.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-006/A3-006-rsz+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-006/A3-006-rsz+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-006/A3-006-rsz+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-006/A3-006-rsz+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-006/A3-006-rsz+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-006/A3-006-rsz+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-006/A3-006-rsz+(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-006/A3-006-rsz+(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-006/A3-006-rsz+(9).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-006/A3-006-rsz+(10).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-006/A3-006-rsz+(11).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-006/A3-006-rsz+(12).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-006/A3-006-rsz+(13).jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de2"
+    },
+    "description": "Soft cotton fabric, cropped length, basic round neck shape, half-length short sleeves, and finished with a fabric neckband.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5d"
+    },
+    "code": "A3-006",
+    "id": "C000005",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "V-neck shoulder detail top",
+    "price": 10,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-011/A3-011-1.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-011/A3-011-2.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-011/A3-011-3.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-011/A3-011-4.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-011/A3-011-5.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-011/A3-011-6.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-011/A3-011-7.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-011/A3-011-8.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-011/A3-011-9.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-011/A3-011-10.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-011/A3-011+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-011/A3-011+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-011/A3-011+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-011/A3-011+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-011/A3-011+(5).jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de2"
+    },
+    "description": "Light fabric with a twill texture, two shoulder slits, chin details, V-neck shaped inner hem, volume created by pleats in the center of the sleeves, a clean scooty finish that holds the pleats at the end of the sleeves, and a sense of leisure with the pleat details in the center of the back.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5c"
+    },
+    "code": "A3-011",
+    "id": "C000006",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Cowl neck side shirring top",
+    "price": 10,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-012/A3-012+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-012/A3-012+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-012/A3-012+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-012/A3-012+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-012/A3-012+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-012/A3-012+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-012/A3-012+(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-012/A3-012+(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-012/A3-012+(9).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-012/A3-012+(10).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-012/A3-012+(11).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-012/A3-012+(12).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-012/A3-012+(13).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-012/A3-012+(14).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-012/A3-012+(15).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-012/A3-012+(16).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-012/A3-012+(17).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-012/A3-012+(18).jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de2"
+    },
+    "description": "Stretchy and comfortable fabric, drapery cowl neck, shirring details on both lower side seams, relatively short length and fitted silhouette.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5f"
+    },
+    "code": "A3-012",
+    "id": "C000007",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Linen V-neck basic top",
+    "price": 14,
+    "discount": 10,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-013/A3-013-1.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-013/A3-013-2.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-013/A3-013-3.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-013/A3-013-4.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-013/A3-013-5.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-013/A3-013-6.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-013/A3-013-7.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-013/A3-013-8.jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de2"
+    },
+    "description": "Courtyard linen fabric, V-neck shape with neat 1/4\" gap inbinding finish, features a front center incision, and a straight box silhouette.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5e"
+    },
+    "code": "A3-013",
+    "id": "C000008",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Boxy-Fit Curved-Hem T-Shirt",
+    "price": 13,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-015/A3-015+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-015/A3-015+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-015/A3-015+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-015/A3-015+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-015/A3-015+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-015/A3-015+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-015/A3-015+(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-015/A3-015+(8).jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de2"
+    },
+    "description": "A boxy-fit T-shirt with a curved hem, short sleeves, and a round neckline.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5d"
+    },
+    "code": "A3-015",
+    "id": "C000009",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Camisole tank top",
+    "price": 10,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-016BK/A3-016-1.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-016BK/A3-016-2.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-016BK/A3-016-3.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-016BK/A3-016-4.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-016BK/A3-016-5.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-016BK/A3-016-6.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-016BK/A3-016-7.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-016BK/A3-016-8.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-016BK/A3-016-7_2.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-016BK/A3-016-8_2.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-016BK/A3-016-9.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-016BK/A3-016+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-016BK/A3-016+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-016BK/A3-016+(3).jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de2"
+    },
+    "description": "Thick cotton fabric, camisole-style tank top, length adjustable with shoulder straps, features a princess line and chest slit, and a fitted line that highlights the silhouette.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5b"
+    },
+    "code": "A3-016",
+    "id": "C000010",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "V-neck lip trim detail setup",
+    "price": 10,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-018/A3-018+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-018/A3-018+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-018/A3-018+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-018/A3-018+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-018/A3-018+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-018/A3-018+(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-018/A3-018+(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-018/A3-018+(9).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-018/A3-018p+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-018/A3-018p+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-018/A3-018p+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-018/A3-018p+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-018/A3-018p+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-018/A3-018p+(6).jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de2"
+    },
+    "description": "Combination of soft cotton fabric and ribbed fabric, neckband finished with ribs, ribbed trim that highlights the shoulder and arm lines, high ribbed cuffs, cropped length with differences in front and back length, waist elastic band pants, front Side seam crossed over, pocket located on the side seam line.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5f"
+    },
+    "code": "A3-018",
+    "id": "C000011",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Sleeveless crop top",
+    "price": 10,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-019/A3-019+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-019/A3-019+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-019/A3-019+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-019/A3-019+(3)_2.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-019/A3-019+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-019/A3-019+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-019/A3-019+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-019/A3-019+(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-019/A3-019+(8).jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de2"
+    },
+    "description": "Lightweight fabric with crinkled texture, wide shoulder width with shoulder pad inserts, back keyhole button opening, 1/4\" binding at center back, 1/4\" binding strap ribbon tie at hem.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5c"
+    },
+    "code": "A3-019",
+    "id": "C000012",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "U-Neck Satin Sleeveless Top",
+    "description": "Satin fabric with a soft touch and luster, neat inner hem finish with U-neck shape, and shirttail finish at the bottom.",
+    "code": "A3-020",
+    "price": 10,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-020/A3-020_ari-1_crop.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-020/A3-020_ari-2_crop.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-020/A3-020_ari-4_crop2.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-020/A3-020_ari-4_crop.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-020/A3-020_ari-5_crop.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-020/A3-020_ari-1_rsz.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-020/A3-020_ari-5_rsz.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-020/A3-020_ari-7_rsz.jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de2"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5c"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000013",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Asymmetric V-neck blouse",
+    "description": "Fabric with a sense of surface, V-neck shape and drapery asymmetrical layer at the center front slit, left side seam slit, 3/4 sleeves, pleated details on both sides based on the cuff opening.",
+    "code": "A3-023",
+    "price": 10,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-023/A3-023+(0).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-023/A3-023+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-023/A3-023+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-023/A3-023+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-023/A3-023+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-023/A3-023+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-023/A3-023+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-023/A3-023+(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-023/A3-023+(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-023/A3-023+(9).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-023/A3-023+(10).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-023/A3-023+(11).jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de2"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5b"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000014",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "High-neck halter sleeveless top",
+    "description": "Dry textured cotton fabric, high neck halter style, shirring detail on the neck cut line, back neck keyhole and pearl button opening, armhole edge 1/4\" inbinding finish, cropped length.",
+    "code": "A3-024",
+    "price": 10,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-024/A3-024+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-024/A3-024+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-024/A3-024+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-024/A3-024+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-024/A3-024+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-024/A3-024+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-024/A3-024+(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-024/A3-024+(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-024/A3-024+(5-2).jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de2"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5b"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000015",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Basic t-shirt",
+    "description": "Soft cotton fabric, basic round neck shape, short sleeves, and a clean finish.",
+    "code": "A3-028",
+    "price": 8,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-028/A3-028+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-028/A3-028+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-028/A3-028+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-028/A3-028+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-028/A3-028+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-028/A3-028+(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-028/A3-028+(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-028/A3-028+(9).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-028/A3-028+(10).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-028/A3-028+(11).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-028/A3-028+(12).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-028/A3-028+(13).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-028/A3-028+(14).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-028/A3-028+(15).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A3/A3-028/A3-028+(16).jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de2"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5e"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000016",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Cigarette pants",
+    "description": "Stretchy slacks fabric, cigarette silhouette with a fitted straight line and tapered hem, front button and zipper opening, pockets on both sides of the front and a central crease line, and a neat finish with darts on the back.",
+    "code": "B1-001",
+    "price": 15,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-001/B1-001-9.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-001/B1-001-8.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-001/B1-001-7.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-001/B1-001-6.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-001/B1-001-5.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-001/B1-001-4.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-001/B1-001-33.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-001/B1-001-32.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-001/B1-001-32_crop.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-001/B1-001-31.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-001/B1-001-19.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-001/B1-001-18.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-001/B1-001-16.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-001/B1-001-10.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-001/B1-001+(9).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-001/B1-001+(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-001/B1-001+(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-001/B1-001+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-001/B1-001+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-001/B1-001+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-001/B1-001+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-001/B1-001+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-001/B1-001+(10).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-001/B1-001+(1).jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de8"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5b"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000017",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Tuck wide pants",
+    "description": "Made of low-wrinkle cotton fabric with a surface feel, wide silhouette pants, tuck details on both sides of the center of the front, front buttons and zippers, side pockets on both front sides.",
+    "code": "B1-002",
+    "price": 13,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-003/B1-003+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-003/B1-003+(4)_crop.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-003/B1-003+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-003/B1-003+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-003/B1-003+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-003/B1-003+(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-003/B1-003+(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-003/B1-003-11.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-003/B1-003-12.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-003/B1-003-2.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-003/B1-003-3.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-003/B1-003-5.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-003/B1-003-7.jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de8"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5b"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000018",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Bootcut ponte pants",
+    "description": "Stretchy and thick ponte fabric, bootcut pants with a straight silhouette with a slightly wider hem, diagonal line pockets on both sides of the front, a yoke on the back, and welt pockets on both sides.",
+    "code": "B1-004",
+    "price": 15,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-004/B1-004+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-004/B1-004+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-004/B1-004+(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-004/B1-004-1.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-004/B1-004-10.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-004/B1-004-11.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-004/B1-004-19.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-004/B1-004-20.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-004/B1-004-3.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-004/B1-004-4.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-004/B1-004-5.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-004/B1-004-9.jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de8"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5b"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000019",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Elastic band pants",
+    "description": "Light fabric with crinkled texture, waist belt loops, chin detail on the front belt loop line, front button and zipper opening, side pockets on both sides of the front, elastic inserts in the back waistband, and pentagonal patch pockets on both sides of the back.",
+    "code": "B1-005",
+    "price": 19,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-005/B1-005-1_c.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-005/B1-005-1.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-005/B1-005-3.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-005/B1-005-5.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-005/B1-005-6.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-005/B1-005-7.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-005/B1-005-8.jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de8"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5b"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000020",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Crinkled jogger pants",
+    "description": "Light fabric with crinkled texture, chin detail on the waist belt loop line, side pockets between the chin cut and side cut, elastic bands at the waist and hem, and pentagonal patch pockets.",
+    "code": "B1-006",
+    "price": 11,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-006/B1-006+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-006/B1-006+(1)c.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-006/B1-006+(12).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-006/B1-006+(13).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-006/B1-006+(16).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-006/B1-006+(17).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-006/B1-006+(18).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-006/B1-006+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-006/B1-006+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-006/B1-006+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-006/B1-006+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-006/B1-006+(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-006/B1-006+(9).jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de8"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5b"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000021",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Raw edge chino pants",
+    "description": "Chino cotton fabric, relatively thick waistband, two buttons and zipper opening, belt loops, streamlined side pockets on both sides and right key pocket, straight and fitted silhouette, raw edge treatment at the bottom.",
+    "code": "B1-008",
+    "price": 15,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-008/B1-008+(10).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-008/B1-008+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-008/B1-008+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-008/B1-008+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-008/B1-008+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-008/B1-008+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-008/B1-008+(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-008/B1-008+(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-008/B1-008+(9).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-008/B1-008-1.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-008/B1-008-11.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-008/B1-008-12_2.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-008/B1-008-12.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-008/B1-008-13_2.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-008/B1-008-13.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-008/B1-008-14.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-008/B1-008-15.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-008/B1-008-2.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-008/B1-008-3.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-008/B1-008-3c.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-008/B1-008-4.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-008/B1-008-5.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-008/B1-008-6.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-008/B1-008-7.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-008/B1-008-8.jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de8"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5b"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000022",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Belted cigarette pants",
+    "description": "Stretchy slack fabric with a soft touch, waist belt connected by a D-ring, chin details on both sides based on the front center line, cigarette pants with a shape that narrows to the hem, a central crease line, and a neat finish with back darts.",
+    "code": "B1-009",
+    "price": 18,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-009/B1-009-1.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-009/B1-009-11.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-009/B1-009-13.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-009/B1-009-13c.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-009/B1-009-16.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-009/B1-009-17.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-009/B1-009-18.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-009/B1-009-19.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-009/B1-009-2.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-009/B1-009-21.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-009/B1-009-23.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-009/B1-009-26.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-009/B1-009-27.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-009/B1-009-3.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-009/B1-009-4.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-009/B1-009-7.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-009/B1-009-8.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-009/B1-009-9.jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de8"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5b"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000023",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Side slit fitted pants",
+    "description": "Features soft-touch, stretchy slack fabric, front center console zipper opening, front side seam hidden pockets, back center waist slit detail, fitted silhouette with a slightly widening line at the hem, deep slits on both sides of the hem, and both sides of the back. Dart and welt pockets.",
+    "code": "B1-010",
+    "price": 18,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-010/B1-010+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-010/B1-010+(10).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-010/B1-010+(11).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-010/B1-010+(12).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-010/B1-010+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-010/B1-010+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-010/B1-010+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-010/B1-010+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-010/B1-010+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-010/B1-010+(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-010/B1-010+(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-010/B1-010+(9).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-010/B1-010-10.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-010/B1-010-11.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-010/B1-010-11c.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-010/B1-010-12_2.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-010/B1-010-13.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-010/B1-010-2.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-010/B1-010-3.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-010/B1-010-5.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-010/B1-010-6.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-010/B1-010-7.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-010/B1-010-8.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-010/B1-010-9.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-010/B1-010.jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de8"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5b"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000024",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Triple tuck volume pants",
+    "description": "Fabric that falls softly with a light feel, triple tuck centered around the front, no waist band, preserving the shape of the tuck, finishing the opening with two buttons and a zipper, elastic inserted into the back waist band, a silhouette that maintains the volume of the upper part of the pants at the hem.",
+    "code": "B1-011",
+    "price": 18,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-011/B1-011-1.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-011/B1-011-10.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-011/B1-011-11.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-011/B1-011-12.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-011/B1-011-13.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-011/B1-011-14.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-011/B1-011-15.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-011/B1-011-16.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-011/B1-011-17.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-011/B1-011-18.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-011/B1-011-19.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-011/B1-011-2.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-011/B1-011-3.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-011/B1-011-4.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-011/B1-011-5.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-011/B1-011-5c.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-011/B1-011-6.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-011/B1-011-7.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-011/B1-011-8.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-011/B1-011-9.jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de8"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5b"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000025",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Linen waist gathered trousers",
+    "description": "Linen fabric with a natural texture, a high elastic band inserted into the waist band and gathered to bring out the ruffle detail, two front buttons and a zipper opening, a straight silhouette with a 9-quarter length, and pentagonal patch pockets.",
+    "code": "B1-013",
+    "price": 18,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-013/B1-013-1.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-013/B1-013-10.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-013/B1-013-2.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-013/B1-013-3.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-013/B1-013-4.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-013/B1-013-5.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-013/B1-013-6.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-013/B1-013-7.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-013/B1-013-8.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-013/B1-013-9.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-013/B1-013.jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de8"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5b"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000026",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Wide belted pants",
+    "description": "It is made of soft, stretchy fabric, features a wide belt and button opening, double tuck details on both sides of the center front, diagonal side pockets featuring a fly at the opening, and is finished with a single dart at the back.",
+    "code": "B1-014",
+    "price": 18,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-014/B1-014+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-014/B1-014+(10).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-014/B1-014+(11).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-014/B1-014+(12).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-014/B1-014+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-014/B1-014+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-014/B1-014+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-014/B1-014+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-014/B1-014+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-014/B1-014+(6)c.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-014/B1-014+(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-014/B1-014+(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-014/B1-014+(9).jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de8"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5b"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000027",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Elastic band straight pants",
+    "description": "Light and elastic fabric, semi-relaxed silhouette with straight lines, elastic band on the back waistband for a comfortable fit.",
+    "code": "B1-015",
+    "price": 15,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-015/B1-015+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-015/B1-015+(10).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-015/B1-015+(11).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-015/B1-015+(12).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-015/B1-015+(16).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-015/B1-015+(17).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-015/B1-015+(18).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-015/B1-015+(19).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-015/B1-015+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-015/B1-015+(21).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-015/B1-015+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-015/B1-015+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-015/B1-015+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-015/B1-015+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-015/B1-015+(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-015/B1-015+(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-015/B1-015+(9).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-015/B1-015+(9)c.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-015/B1-015-P+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B1/B1-015/B1-015-P+(2).jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de8"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5b"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000028",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Wrap style knot dress",
+    "description": "Made of soft and light fabric, wrap style dress with a V-neckline, knot detail on the front, and a waistband that can be tied in the back.",
+    "code": "C1-031",
+    "price": 18,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-031/C1-031+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-031/C1-031+(10).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-031/C1-031+(11).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-031/C1-031+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-031/C1-031+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-031/C1-031+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-031/C1-031+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-031/C1-031+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-031/C1-031+(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-031/C1-031+(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-031/C1-031+(9).jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de5"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5b"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000029",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Single button blazer wrap dress",
+    "description": "Solid and heavy formal fabric, single blazer collar overlaps and fastened with buttons, front and back princess line darts emphasize waist line, fitted long sleeve dress with set-in sleeves.",
+    "code": "C1-032",
+    "price": 18,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-032/C1-032+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-032/C1-032+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-032/C1-032+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-032/C1-032+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-032/C1-032+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-032/C1-032+(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-032/C1-032_P+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-032/C1-032_P+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-032/C1-032_P+(4).jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de5"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5b"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000030",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Satin overlap jumpsuit",
+    "description": "Glossy and light satin fabric, V-neck overlap style, neck fastening with inner snap, elastic band inserted into the waist cut for a relaxed fit, shirring details to create a feminine silhouette, short-length shorts, and a variety of waist straps. Long sleeves that can be styled with ample width.",
+    "code": "C1-033",
+    "price": 18,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-033/C1-033+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-033/C1-033+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-033/C1-033+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-033/C1-033+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-033/C1-033+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-033/C1-033+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-033/C1-033+(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-033/C1-033+(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-033/C1-033+(9).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-033/C1-033+(10).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-033/C1-033+(11).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-033/C1-033+(12).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-033/C1-033+(13).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-033/C1-033+(14).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-033/C1-033+(15).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-033/C1-033+(16).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-033/C1-033+(17).jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de5"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5b"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000031",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Chelsea collar mini dress",
+    "description": "Elastic black fabric, featuring a deep single-collar neck shape, button-down opening with point buttons, and darts and shirring inserted into the empire cut to create volume. Short sleeves, back yoke cut pleats, Illastek band inserted into the back waist cut and connected with yoke line shirring. A short-length mini dress.",
+    "code": "C1-037",
+    "price": 18,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-037/C1-037+(10).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-037/C1-037+(11).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-037/C1-037+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-037/C1-037+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-037/C1-037+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-037/C1-037+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-037/C1-037+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-037/C1-037+(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-037/C1-037+(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-037/C1-037+(9).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-037/C1-037_P+(1)_rsz.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-037/C1-037_P+(4)_rsz.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-037/C1-037_P+(5)_rsz.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-037/C1-037_P_CUT.jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de5"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5b"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000032",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Overfit unbalanced flowy dress",
+    "description": "It features a light fabric with a melange collar, a deep crew neck style, generous shoulder width with dropped shoulders, front open patch pockets, an unbalanced shape with different lengths on the front and back, and the side cut lines are forwarded to the front. A boxy dress with flowing lines in an A-line silhouette.",
+    "code": "C1-038",
+    "price": 11,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-038/C1-038+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-038/C1-038+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-038/C1-038+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-038/C1-038+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-038/C1-038+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-038/C1-038+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-038/C1-038+(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-038/C1-038+(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-038/C1-038+(9).jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de5"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5b"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000033",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Henry neck shirring dress",
+    "description": "The fabric has a papery texture with a smooth surface, features a V-neck shape, a button-down opening to the high waist cut, 3/4 sleeves and a sleeve band finish, and plenty of shirring at the waist cut to create a relaxed A-line skirt silhouette. Neck, sleeve cuffs and inner hem match to give a point.",
+    "code": "C1-039",
+    "price": 11,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-039/C1-039+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-039/C1-039+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-039/C1-039+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-039/C1-039+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-039/C1-039+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-039_P/C1-039_P+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-039_P/C1-039_P+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-039_P/C1-039_P+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-039_P/C1-039_P+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-039_P/C1-039_P+(5).jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de6"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5b"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000034",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Princess line shirt dress",
+    "description": "Single collar and button-down style shirt dress, featuring a princess line extending from the shoulder cut to the hem, cap sleeves with short sleeve length, size adjustable using waist strap, neat finish with 1/4\" stitching at the end of the sleeve, woody look one button match adds specialness.",
+    "code": "C1-040",
+    "price": 11,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-040/C1-040+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-040/C1-040+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-040/C1-040+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-040/C1-040+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-040_P/C1-040_P+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-040_P/C1-040_P+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-040_P/C1-040_P+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-040_P/C1-040_P+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-040_P/C1-040_P+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-040_P/C1-040_P+(6).jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de6"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5b"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000035",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Short sleeve shirt dress",
+    "description": "Cool, soft, wrinkle-free fabric, single-collar button-down style shirt dress, short sleeves, straight lines for a minimalist silhouette, and short-length mini dress.",
+    "code": "C1-041",
+    "price": 11,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-041/C1-041+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-041/C1-041+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-041/C1-041+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-041/C1-041+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-041/C1-041_P+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-041/C1-041_P+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-041/C1-041_P+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-041/C1-041_P+(4).jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de5"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5b"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000036",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Loose long sleeve shirt dress",
+    "description": "Soft fabric featuring a wavy texture, single-collar button-down style shirt dress, generous drop shoulders, long sleeves and regular cuffs, back yoke and center back box pleats, and shirt tail shape at the bottom.",
+    "code": "C1-042",
+    "price": 11,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-042/C1-042+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-042/C1-042+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-042/C1-042+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-042/C1-042+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-042/C1-042+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-042/C1-042_P+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-042/C1-042_P+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-042/C1-042_P+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-042/C1-042_P+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-042/C1-042_P+(5).jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de5"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5b"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000037",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "V-neck collar jumpsuit",
+    "description": "V-neck with single collar, zipper opening below the back collar slit, generous chest width with dropped shoulders, long short sleeves and folded cuffs, size adjustable with waist strap, front and back center cut, welts on both sides of the back. Features a straight, boxy silhouette with pockets.",
+    "code": "C1-043",
+    "price": 18,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-043/C1-043+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-043/C1-043+(10).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-043/C1-043+(11).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-043/C1-043+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-043/C1-043+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-043/C1-043+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-043/C1-043+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-043/C1-043+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-043/C1-043+(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-043/C1-043+(9).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-043/C1-043_P+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-043/C1-043_P+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-043/C1-043_P+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-043/C1-043_P+(4).jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de7"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5b"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000038",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Maxi dress 047",
+    "description": "Maxi dress with waist/back strings and side slits.",
+    "code": "C1-047",
+    "price": 18,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-047/C1-047+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-047/C1-047+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-047/C1-047+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-047/C1-047+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-047/C1-047+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-047/C1-047+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-047/C1-047+(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-047/C1-047+(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-047/C1-047+(9).jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de6"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5b"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000039",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Black dress 048",
+    "description": "Loose-fitting shirt dress. It features a collared neckline, button-down front, long sleeves with cuffs, and gathers at the waist that give it a flared look towards the hem. The dress has a minimalist design and an A-line silhouette. The model wearing the dress is paired with simple black sandals, and the background is plain white, emphasizing focus on the dress.",
+    "code": "C1-048",
+    "price": 18,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-048/C1-048+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-048/C1-048+(10).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-048/C1-048+(11).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-048/C1-048+(12).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-048/C1-048+(13).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-048/C1-048+(13)(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-048/C1-048+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-048/C1-048+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-048/C1-048+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-048/C1-048+(4)(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-048/C1-048+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-048/C1-048+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-048/C1-048+(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-048/C1-048+(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/C1/C1-048/C1-048+(9).jpg"
+    ],
+    "category": {
+      "$oid": "66d31de8938940e40da75de5"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5b"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000040",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Henley neck sheer shirt",
+    "description": "A sheer fabric with outstanding texture, a henley neck style blouse. Features a shoulder yoke and shirring. Straight silhouette, neat cuff finish.",
+    "code": "A1-002",
+    "price": 11,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-002/A1-002+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-002/A1-002+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-002/A1-002+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-002/A1-002-1.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-002/A1-002-2.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-002/A1-002-3.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-002/A1-002-4.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-002/A1-002-5.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-002/A1-002-6.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-002/A1-002-7.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-002/A1-002-9.jpg"
+    ],
+    "category": {
+      "$oid": "66dae842dca25506918b6b8f"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5b"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000041",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Crew neck shirring shirt",
+    "description": "Soft fabric with a formal mood, clean crew neck line, shoulder line crossing the front as a point, appropriate length for a variety of looks, and shirring on the top and bottom of the sleeves for a sense of volume.",
+    "code": "A1-006",
+    "price": 11,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-006/A1-006+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-006/A1-006+(10).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-006/A1-006+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-006/A1-006+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-006/A1-006+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-006/A1-006+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-006/A1-006+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-006/A1-006+(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-006/A1-006+(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-006/A1-006+(9).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-006/A1-006_HJ-10.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-006/A1-006_HJ-3.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-006/A1-006_HJ-5.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-006/A1-006_HJ-7.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-006/A1-006_HJ-9.jpg"
+    ],
+    "category": {
+      "$oid": "66dae842dca25506918b6b8f"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5b"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000042",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "High neck keyhole blouse",
+    "description": "The drapery fabric makes the shirring detail stand out, the high neck is at an appropriate height, and the keyhole opening adds a sense of relaxation to the neck area. Comfortable fit with a moderately dropped shoulder silhouette.",
+    "code": "A1-007",
+    "price": 11,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-007/A1-007+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-007/A1-007+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-007/A1-007+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-007/A1-007+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-007/A1-007+(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-007/A1-007+(9).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-007/A1-007-13.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-007/A1-007-17.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-007/A1-007-18.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-007/A1-007-19.jpg"
+    ],
+    "category": {
+      "$oid": "66dae842dca25506918b6b8f"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5b"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000043",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "V-neck raglan blouse",
+    "description": "Henley V-neck style blouse, neatly finished with 1/4\" neck binding, fabric added to the raglan sleeve cutout to add a casual mood, fabric texture that hugs the body for a comfortable fit. Buttons can be attached to the cuffs for a variety of looks.",
+    "code": "A1-008",
+    "price": 11,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-008/A1-008-10.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-008/A1-008-11.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-008/A1-008-12_2.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-008/A1-008-2.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-008/A1-008-3.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-008/A1-008-4_crop.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-008/A1-008-4.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-008/A1-008-5.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-008/A1-008-6.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-008/A1-008-7.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-008/A1-008-8.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-008/A1-008-9.jpg"
+    ],
+    "category": {
+      "$oid": "66dae842dca25506918b6b8f"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5b"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000044",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Henry U-neck Blouse",
+    "description": "Blouse featuring a henley neck and U-shaped neck drop, pleated details on the neck cut line add richness, high-vis fabric creates a powerful silhouette, cut in the middle of the sleeve and topstitch details, and high cuffs and inner buttons. Neat finish.",
+    "code": "A1-010",
+    "price": 11,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-010/A1-010+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-010/A1-010+(10).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-010/A1-010+(11).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-010/A1-010+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-010/A1-010+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-010/A1-010+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-010/A1-010+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-010/A1-010+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-010/A1-010+(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-010/A1-010+(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-010/A1-010+(9).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-010/A1-010-1.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-010/A1-010-10.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-010/A1-010-11_2.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-010/A1-010-2.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-010/A1-010-3.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-010/A1-010-4.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-010/A1-010-5.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-010/A1-010-6.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-010/A1-010-7.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-010/A1-010-8.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A1/A1-010/A1-010-9_2.jpg"
+    ],
+    "category": {
+      "$oid": "66dae842dca25506918b6b8f"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5b"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000045",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Double button puff",
+    "description": "Fabric with outstanding texture, featuring a wide collar and double buttons, puff sleeves with deep pleats, the shirring at the end of the sleeves is held in place by a fabric band to create a rich silhouette, and a straight silhouette with a relaxed feel.",
+    "code": "A2-003",
+    "price": 11,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-003/A2-003+P+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-003/A2-003+P+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-003/A2-003+P+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-003/A2-003-10_2.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-003/A2-003-11.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-003/A2-003-12.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-003/A2-003-15.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-003/A2-003-16.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-003/A2-003-17.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-003/A2-003-2.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-003/A2-003-3.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-003/A2-003-7_2.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-003/A2-003-8_2.jpg"
+    ],
+    "category": {
+      "$oid": "66dae831dca25506918b6b8b"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5c"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000046",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Crinkled roll-up shirt",
+    "description": "Light fabric with a crinkled texture, slightly forward shoulder line, patch pocket detail on the left chest, space between buttons at the bottom of the body allows for a variety of looks, sleeve roll-up using buttons and straps, and pleats at the back yoke for a relaxed fit. Comfortable fit.",
+    "code": "A2-005",
+    "price": 13,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-005/A2-005_ari-11_crop.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-005/A2-005_ari-11_rsz.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-005/A2-005_ari-15_crop.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-005/A2-005_ari-15_rsz.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-005/A2-005_ari-2_rsz.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-005/A2-005_ari-2_zoom.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-005/A2-005_ari-4_rsz.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-005/A2-005_ari-4_zoom.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-005/A2-005_ari-5_rsz.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-005/A2-005_ari-8.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-005/A2-005_ari-9_crop.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-005/A2-005_ari-9_rsz.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-005/A2-005_ari-rsz.jpg"
+    ],
+    "category": {
+      "$oid": "66dae831dca25506918b6b8b"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5c"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000047",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Papery hidden placket shirt",
+    "description": "Papery fabric adds strength to the silhouette, features a wide hidden placket, 1/2\" length short sleeve shirt, deep box pleats at the back yoke cutout, and a straight silhouette with set-in sleeves.",
+    "code": "A2-006",
+    "price": 13,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-006/A2-006-1.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-006/A2-006-10.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-006/A2-006-11.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-006/A2-006-12.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-006/A2-006-13.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-006/A2-006-2.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-006/A2-006-3.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-006/A2-006-4.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-006/A2-006-5+-t+.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-006/A2-006-5.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-006/A2-006-6.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-006/A2-006-7.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-006/A2-006-8.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-006/A2-006-9.jpg"
+    ],
+    "category": {
+      "$oid": "66dae831dca25506918b6b8b"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5c"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000048",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Half hidden placket shirt",
+    "description": "A courtney-like fabric with a light texture, a half-length hidden button down shirt, pleats in the cutout area below the shirt opening placket, and high cuffs for a solid finish with double-layer sewing on the cuffs.",
+    "code": "A2-007",
+    "price": 13,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-007/A2-007-1.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-007/A2-007-10.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-007/A2-007-11.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-007/A2-007-12.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-007/A2-007-13.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-007/A2-007-2.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-007/A2-007-3.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-007/A2-007-4.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-007/A2-007-5.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-007/A2-007-6.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-007/A2-007-7.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-007/A2-007-8.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-007/A2-007-9.jpg"
+    ],
+    "category": {
+      "$oid": "66dae831dca25506918b6b8b"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5c"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000049",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Triple stripe shirt",
+    "description": "A neat mood with soft triple striped fabric, a dropped shoulder line running down the shoulder line, a basic button-down shirt, shirttail hem silhouette, and tone-on-tone matching of buttons and fabric.",
+    "code": "A2-010",
+    "price": 13,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-010/A2-010+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-010/A2-010+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-010/A2-010+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-010/A2-010+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-010/A2-010+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-010/A2-010+(6)_c.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-010/A2-010+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-010/a2-010_c.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-010/A2-010-0.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-010/A2-010-1.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-010/A2-010-10.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-010/A2-010-2.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-010/A2-010-3.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-010/A2-010-4.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-010/A2-010-5.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-010/A2-010-6.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-010/A2-010-7.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-010/A2-010-8.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-010/A2-010-9.jpg"
+    ],
+    "category": {
+      "$oid": "66dae831dca25506918b6b8b"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5c"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000050",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Ribbon tie hidden placket shirt",
+    "description": "A long collar strap creates a ribbon tie, a button-down shirt with a hidden placket, long sleeves and cuffs of an appropriate height, and a straight silhouette with set-in sleeves.",
+    "code": "A2-013",
+    "price": 13,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-013/A2-013+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-013/A2-013+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-013/A2-013+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-013/A2-013+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-013/A2-013+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-013/A2-013+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-013/A2-013+(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-013/A2-013+(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-013/A2-013+(9).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-013/A2-013-1.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-013/A2-013-2.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-013/A2-013-3.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-013/A2-013-4.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-013/A2-013-5.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-013/A2-013-6.jpg"
+    ],
+    "category": {
+      "$oid": "66dae831dca25506918b6b8b"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5c"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000051",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Ruffle neck button down shirt",
+    "description": "Relatively strong fabric with few wrinkles, ruffle stand collar, neat finish with 1/4\" inbinding on the inside of the neck, puff sleeves with shirring at the top and bottom of the sleeves, shoulder line, back yoke cut line, and two lines at 1/4\" intervals on the armhole line. stitch detail",
+    "code": "A2-014",
+    "price": 15,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-014/A2-014+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-014/A2-014+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-014/A2-014+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-014/A2-014+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-014/A2-014+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-014/A2-014+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-014/A2-014-1.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-014/A2-014-2.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-014/A2-014-3.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-014/A2-014-4.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-014/A2-014-5.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-014/A2-014-6.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-014/A2-014-7.jpg"
+    ],
+    "category": {
+      "$oid": "66dae831dca25506918b6b8b"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5c"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000052",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Collar ruffle shirt",
+    "description": "Light fabric with a crinkled texture, slightly see-through, ruffle trim on the edge of the collar as a point, abundant shirring on the drop shoulder cutout, ruffle details added to the cuffs by holding the shirring with an elastic band, and a straight silhouette for a relaxed fit.",
+    "code": "A2-015",
+    "price": 15,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-015/A2-015+(1_y).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-015/A2-015+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-015/A2-015+(11).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-015/A2-015+(12).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-015/A2-015+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-015/A2-015+(2y).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-015/A2-015+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-015/A2-015+(3y).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-015/A2-015+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-015/A2-015+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-015/A2-015+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-015/A2-015+(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-015/A2-015+(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-015/A2-015+(9).jpg"
+    ],
+    "category": {
+      "$oid": "66dae831dca25506918b6b8b"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5c"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000053",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Overfit button down shirt",
+    "description": "Thin fabric with a dry texture, a boxy style with a long length and an overfit, a petite-sized single collar, and the generous width of the sleeves held at the cuffs to create a voluminous silhouette.",
+    "code": "A2-016",
+    "price": 15,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-016/A2-016+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-016/A2-016+(10).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-016/A2-016+(11).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-016/A2-016+(12).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-016/A2-016+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-016/A2-016+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-016/A2-016+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-016/A2-016+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-016/A2-016+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-016/A2-016+(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-016/A2-016+(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-016/A2-016+(9).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-016/A2-016+P+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-016/A2-016+P+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-016/A2-016+P+(3).jpg"
+    ],
+    "category": {
+      "$oid": "66dae831dca25506918b6b8b"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5c"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000054",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Linen overfit shirt",
+    "description": "Features dry textured linen fabric, round collar, topstitching at 1/4\" intervals, side slits on both sides of the body hem, slits at the end of the sleeves, and three button details. The round, boxy silhouette provides a relaxed fit.",
+    "code": "A2-017",
+    "price": 15,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-017/A2-017_0403-1_Tn.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-017/A2-017_0403-1.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-017/A2-017_0403-2_1.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-017/A2-017_0403-2_detail.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-017/A2-017_0403-3.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-017/A2-017_0403-5_2_crop.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-017/A2-017_0403-5_2.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-017/A2-017_0403-7.jpg"
+    ],
+    "category": {
+      "$oid": "66dae831dca25506918b6b8b"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5c"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000055",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Overfit striped short sleeve",
+    "description": "Features a soft fabric with a dry texture, a wide collar, a boxy silhouette with a relaxed fit, and a striped pattern that creates a neat mood.",
+    "code": "A2-019",
+    "price": 15,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-019/A2-019+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-019/A2-019+(10).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-019/A2-019+(11).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-019/A2-019+(12).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-019/A2-019+(13).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-019/A2-019+(14).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-019/A2-019+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-019/A2-019+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-019/A2-019+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-019/A2-019+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-019/A2-019+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-019/A2-019+(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-019/A2-019+(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-019/A2-019+(9).jpg"
+    ],
+    "category": {
+      "$oid": "66dae831dca25506918b6b8b"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5c"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000056",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Cotton Crossover Bubble Shirt",
+    "description": "Features a soft cotton fabric with a dry texture, a wide collar, a boxy silhouette with a relaxed fit, and a striped pattern that creates a neat mood.",
+    "code": "A2-020",
+    "price": 15,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-020/A2-020%20(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-020/A2-020%20(10).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-020/A2-020%20(11).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-020/A2-020%20(12).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-020/A2-020%20(13).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-020/A2-020%20(14).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-020/A2-020%20(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-020/A2-020%20(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-020/A2-020%20(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-020/A2-020%20(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-020/A2-020%20(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-020/A2-020%20(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-020/A2-020%20(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-020/A2-020%20(9).jpg"
+    ],
+    "category": {
+      "$oid": "66dae831dca25506918b6b8b"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5c"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000057",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Linen short sleeve shirt",
+    "description": "Features a soft linen fabric with a dry texture, a wide collar, a boxy silhouette with a relaxed fit, and a striped pattern that creates a neat mood.",
+    "code": "A2-021",
+    "price": 15,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-021/A2-021+(0).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-021/A2-021+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-021/A2-021+(10).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-021/A2-021+(11).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-021/A2-021+(12).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-021/A2-021+(13).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-021/A2-021+(14).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-021/A2-021+(15).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-021/A2-021+(16).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-021/A2-021+(17).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-021/A2-021+(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-021/A2-021+(9).jpg"
+    ],
+    "category": {
+      "$oid": "66dae831dca25506918b6b8b"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5c"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000058",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Blue linen resort shirt",
+    "description": "Features a soft linen fabric with a dry texture, a wide collar, a boxy silhouette with a relaxed fit, and a striped pattern that creates a neat mood.",
+    "code": "A2-022",
+    "price": 15,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-022/A2-022+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-022/A2-022+(10).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-022/A2-022+(11).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-022/A2-022+(12).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-022/A2-022+(13).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-022/A2-022+(14).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-022/A2-022+(15).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-022/A2-022+(16).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-022/A2-022+(17).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-022/A2-022+(18).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-022/A2-022+(19).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-022/A2-022+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-022/A2-022+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-022/A2-022+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-022/A2-022+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-022/A2-022+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-022/A2-022+(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-022/A2-022+(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-022/A2-022+(9).jpg"
+    ],
+    "category": {
+      "$oid": "66dae831dca25506918b6b8b"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5c"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000059",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Versatile Long Sleeve Shirt",
+    "description": "Features a soft linen fabric with a dry texture, a wide collar, a boxy silhouette with a relaxed fit, and a striped pattern that creates a neat mood.",
+    "code": "A2-025",
+    "price": 15,
+    "discount": 0,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-025/A2-025+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-025/A2-025+(10).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-025/A2-025+(11).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-025/A2-025+(12).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-025/A2-025+(13).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-025/A2-025+(14).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-025/A2-025+(15).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-025/A2-025+(16).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-025/A2-025+(17).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-025/A2-025+(18).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-025/A2-025+(19).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-025/A2-025+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-025/A2-025+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-025/A2-025+(4).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-025/A2-025+(5).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-025/A2-025+(6).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-025/A2-025+(7).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-025/A2-025+(8).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/A2/A2-025/A2-025+(9).jpg"
+    ],
+    "category": {
+      "$oid": "66dae831dca25506918b6b8b"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5c"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000060",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  },
+  {
+    "name": "Side slit long skirt",
+    "description": "Stretchy fabric with a firm feel, a clean-cut waistline without a waistband cut, deep darts on the front and back princess lines, a center back console zipper opening, a deep slit on the left side seam, and a midi length.",
+    "code": "B3-001",
+    "price": 42.96,
+    "discount": 40,
+    "imagePaths": [
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B3/B3-001/B3-001+(1).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B3/B3-001/B3-001+(2).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B3/B3-001/B3-001+(3).jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B3/B3-001/B3-001-2.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B3/B3-001/B3-001-3.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B3/B3-001/B3-001-4.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B3/B3-001/B3-001-5.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B3/B3-001/B3-001-6.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B3/B3-001/B3-001-7.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B3/B3-001/B3-001-8.jpg",
+      "https://narciskh-bucket.s3.ap-southeast-1.amazonaws.com/cloth-images/B3/B3-001/B3-001-9.jpg"
+    ],
+    "category": {
+      "$oid": "66dae831dca25506918b6b8b"
+    },
+    "model": {
+      "$oid": "66daf0827a6cfb344b2d7e5c"
+    },
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "id": "C000060",
+    "createdAt": "2024-09-06T13:10:52.246Z",
+    "updatedAt": "2024-09-06T13:10:52.246Z",
+    "isDeleted": false,
+    "isInCollection": false,
+    "isAvailable": true
+  }
+
+
+]

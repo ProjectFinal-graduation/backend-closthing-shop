@@ -1,0 +1,58 @@
+
+[
+    {
+        "name": "Kira",
+        "age": null,
+        "height": 171,
+        "weight": 55,
+        "top": "S",
+        "bottom": "M",
+        "profilePicture": "https://i.imgur.com/fAn4V8X.jpeg",
+        "clothes": [],
+        "isDeleted": false
+    },
+    {
+        "name": "Ari",
+        "age": null,
+        "height": 163,
+        "weight": 46,
+        "top": "S",
+        "bottom": "S",
+        "profilePicture": "https://i.imgur.com/0uwQ2KA.jpeg",
+        "clothes": [],
+        "isDeleted": false
+    },
+    {
+        "name": "Ho Jeoung",
+        "age": null,
+        "height": 165,
+        "weight": 49,
+        "top": "S",
+        "bottom": "S",
+        "profilePicture": "https://i.imgur.com/zPRC7JH.jpeg",
+        "clothes": [],
+        "isDeleted": false
+    },
+    {
+        "name": "Seo Young",
+        "age": null,
+        "height": 164,
+        "weight": 45,
+        "top": "S",
+        "bottom": "S",
+        "profilePicture": "https://i.imgur.com/dCcQQL9.jpeg",
+        "clothes": [],
+        "isDeleted": false
+    },
+    {
+        "name": "Ga Eul",
+        "age": null,
+        "height": 164,
+        "weight": 45,
+        "top": "S",
+        "bottom": "S",
+        "profilePicture": "https://i.imgur.com/qiCE8vf.jpeg",
+        "clothes": [],
+        "isDeleted": false
+    }
+]

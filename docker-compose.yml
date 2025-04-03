@@ -1,0 +1,12 @@
+version: "3.9"
+services:
+  api-service:  
+    restart: always
+    build: .
+    volumes:
+      - .:/usr/src/api
+      - /usr/src/api/node_modules
+    ports: 
+      - 8092:8092
+      - 8093:8093
+    command: npm start

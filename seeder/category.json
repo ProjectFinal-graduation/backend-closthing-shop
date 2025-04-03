@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Top & T-shirt",
+        "parent": null,
+        "code": "A3"
+    },
+    {
+        "name": "Shirt & Blouse",
+        "parent": null,
+        "code": "A1"
+    },
+    {
+        "_id": {
+            "$oid": "66c9a6b492545c8163a1ecbe"
+        },
+        "name": "One-Piece & Dress",
+        "parent": null,
+        "code": "C1"
+    },
+    {
+        "_id": {
+            "$oid": "66c9a6b492545c8163a1ecbf"
+        },
+        "name": "Pants & Shorts",
+        "parent": null,
+        "code": "B1"
+    },
+    {
+        "name": "Skirt",
+        "parent": null,
+        "code": "B3"
+    },
+    {
+        "name": "Mini-Midi",
+        "parent": {
+            "$oid": "66c9a6b492545c8163a1ecbe"
+        },
+        "code": "C1"
+    },
+    {
+        "name": "Long-Maxi",
+        "parent": {
+            "$oid": "66c9a6b492545c8163a1ecbe"
+        },
+        "code": "C1"
+    },
+    {
+        "name": "Jumpsuit",
+        "parent": {
+            "$oid": "66c9a6b492545c8163a1ecbe"
+        },
+        "code": "C1"
+    },
+    {
+        "name": "Trousers",
+        "parent": {
+            "$oid": "66c9a6b492545c8163a1ecbf"
+        },
+        "code": "B1"
+    },
+    {
+        "name": "Shorts",
+        "parent": {
+            "$oid": "66c9a6b492545c8163a1ecbf"
+        },
+        "code": "B2"
+    }
+]

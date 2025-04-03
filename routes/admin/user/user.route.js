@@ -1,0 +1,12 @@
+const express = require("express")
+const Operation = require("./user.operation")
+const router = express.Router()
+
+router.get("/", Operation.list) 
+router.post("/", Operation.create)
+router.put("/:id/changePassword", Operation.resetPassword) 
+router.put("/:id", Operation.update)
+router.get("/:id", Operation.getOne)
+router.delete("/:id", Operation.destory)
+
+module.exports = { router, Operation }

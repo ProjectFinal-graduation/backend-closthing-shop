@@ -1,0 +1,127 @@
+[
+    {
+        "name_kh": "កោះកុង",
+        "name_en": "Koh Kong",
+        "deliveryFee": 1.5
+    },
+    {
+        "name_kh": "កណ្ដាល",
+        "name_en": "Kandal",
+        "deliveryFee": 1.5
+    },
+    {
+        "name_kh": "ភ្នំពេញ",
+        "name_en": "Phnom Penh",
+        "deliveryFee": 0
+    },
+    {
+        "name_kh": "ព្រៃវែង",
+        "name_en": "Prey Veng",
+        "deliveryFee": 1.5
+    },
+    {
+        "name_kh": "ស្ទឹងត្រែង",
+        "name_en": "Steung Treang",
+        "deliveryFee": 1
+    },
+    {
+        "name_kh": "ព្រះសីហនុ",
+        "name_en": "Sihanoukville",
+        "deliveryFee": 2
+    },
+    {
+        "name_kh": "ស្វាយរៀង",
+        "name_en": "Svar Reang",
+        "deliveryFee": 3
+    },
+    {
+        "name_kh": "កែប",
+        "name_en": "Kep",
+        "deliveryFee": 0
+    },
+    {
+        "name_kh": "ឧត្តរមានជ័យ",
+        "name_en": "Oddar Meanchey",
+        "deliveryFee": 0
+    },
+    {
+        "name_kh": "មណ្ឌលគិរី",
+        "name_en": "Mundol Kiri",
+        "deliveryFee": 0
+    },
+    {
+        "name_kh": "បន្ទាយមានជ័យ",
+        "name_en": "Banteay Meanchey",
+        "deliveryFee": 0
+    },
+    {
+        "name_kh": "កំពត",
+        "name_en": "Kampot",
+        "deliveryFee": 0
+    },
+    {
+        "name_kh": "សៀមរាប",
+        "name_en": "Siem Reap",
+        "deliveryFee": 4
+    },
+    {
+        "name_kh": "ពោធិ៍សាត់",
+        "name_en": "Pursat",
+        "deliveryFee": 0
+    },
+    {
+        "name_kh": "កំពង់ចាម",
+        "name_en": "Kampong Cham",
+        "deliveryFee": 0
+    },
+    {
+        "name_kh": "ត្បូងឃ្មុំ",
+        "name_en": "Tbong Khmum",
+        "deliveryFee": 0
+    },
+    {
+        "name_kh": "តាកែវ",
+        "name_en": "Takeo",
+        "deliveryFee": 0
+    },
+    {
+        "name_kh": "រតនគិរី",
+        "name_en": "Ratanakiri",
+        "deliveryFee": 0
+    },
+    {
+        "name_kh": "ក្រចេះ",
+        "name_en": "Phnom Penh",
+        "deliveryFee": 5
+    },
+    {
+        "name_kh": "ព្រះវិហារ",
+        "name_en": "Preah Vihear",
+        "deliveryFee": 0
+    },
+    {
+        "name_kh": "បាត់ដំបង",
+        "name_en": "Battambang",
+        "deliveryFee": 0
+    },
+    {
+        "name_kh": "កំពង់ឆ្នាំង",
+        "name_en": "Kampong Chhnang",
+        "deliveryFee": 0
+    },
+    {
+        "name_kh": "កំពង់ធំ",
+        "name_en": "Kampong Thom",
+        "deliveryFee": 0
+    },
+    {
+        "name_kh": "ប៉ៃលិន",
+        "name_en": "Pailin",
+        "deliveryFee": 0
+    },
+    {
+        "name_kh": "កំពង់ស្ពឺ",
+        "name_en": "Kampong Speu",
+        "deliveryFee": 0
+    }
+]
