@@ -1,1 +1,4 @@
-# narcis-backend
+for run this project 
+
+    npm run start
+    
